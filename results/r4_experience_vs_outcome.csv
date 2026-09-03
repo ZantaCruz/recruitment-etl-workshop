@@ -1,0 +1,22 @@
+seniority_name,yoe_range,total_applications,total_hired,hire_rate_pct
+Architect,0-5 years,1260,180,14.29
+Architect,16+ years,3473,459,13.22
+Architect,6-15 years,2346,332,14.15
+Intern,0-5 years,1281,198,15.46
+Intern,16+ years,3684,499,13.55
+Intern,6-15 years,2290,288,12.58
+Junior,0-5 years,1249,170,13.61
+Junior,16+ years,3542,498,14.06
+Junior,6-15 years,2309,309,13.38
+Lead,0-5 years,1283,162,12.63
+Lead,16+ years,3508,469,13.37
+Lead,6-15 years,2280,298,13.07
+Mid-Level,0-5 years,1351,153,11.32
+Mid-Level,16+ years,3540,461,13.02
+Mid-Level,6-15 years,2362,310,13.12
+Senior,0-5 years,1276,172,13.48
+Senior,16+ years,3431,455,13.26
+Senior,6-15 years,2352,312,13.27
+Trainee,0-5 years,1356,191,14.09
+Trainee,16+ years,3529,468,13.26
+Trainee,6-15 years,2298,314,13.66
